@@ -25,12 +25,6 @@ REST API for an online payment wallet application which can be used by bank cust
 - Lombok
 - Swagger UI
 
-## Our contribution to Project
-* Gaurav Jaiswal-> Authentication, Customer, BankAccount, CashBack 
-* Suresh Jungade->Wallet, UserSession
-* vamsi Krishna->Beneficiary
-* Shubham Kumar->BillPayment
-* Chandan Kumar Sharma ->Transaction
 
 ## ER Diagram
 Following ER diagram indicates the database tables and thier interaction which we are using.
